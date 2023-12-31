@@ -2,7 +2,7 @@
   <img src="./Assets/Logo/dark-logo.svg" width="300">
 </p>
 
-# Press Kit
+# tidepay Press Kit
 
 ## Logo Guide
 
