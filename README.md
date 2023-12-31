@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/Logo/dark-logo.svg" width="300">
+  <img src="./Assets/Logo/tidepay-logo.svg" width="300">
 </p>
 
 # tidepay Press Kit
