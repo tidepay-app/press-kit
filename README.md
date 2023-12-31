@@ -14,7 +14,7 @@ Included in this kit are brand guidelines on how to use the logo, such as a colo
 
 You may choose to navigate to specific assets and download them individually. There is also the option to download this entire press kit source as a ZIP file by clicking on the "〈〉Code ⌄" button and then selecting the "Download ZIP" option (see image).
 
-<img src="./README/download-zip.jpg" width="500" />
+<img src="./README/download-zip.png" width="500" />
 
 
 ## License
