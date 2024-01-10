@@ -8,7 +8,7 @@
 
 Included in this kit are brand guidelines on how to use the logo, such as a color pallette, typography, spacing, etc. There are even examples of how the logo could be cleanly used.
 
-<img src="./Logo Guide/01_cover_v1.0.png" width="500">
+<img src="./Logo Guide/01.1_cover_v1.0.png" width="500">
 
 ## How to Access Assets
 
